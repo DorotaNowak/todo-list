@@ -1,0 +1,16 @@
+#root {
+    margin: 10px;
+    padding-left: 50px;
+    padding-top: 20px;
+    alignment: center;
+    display: flex;
+}
+
+#btn_important {
+    margin-top: 20px;
+}
+
+#not_important {
+    margin-top: 20px;
+    margin-right: 10px;
+}
